@@ -4,6 +4,7 @@
   "description": "Just following along with this video here:\r https://www.youtube.com/watch?v=-RCnNyD0L-s",
   "main": "index.js",
   "scripts": {
+    "dev": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
